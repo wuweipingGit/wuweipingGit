@@ -4,5 +4,6 @@ public  class Demo{
 		System.out.println("在a1分支上添加的词句");
 		System.out.println("在master分支上添加的一句");
 		System.out.println("在a1分支上添加第四句话O");
+		System.out.println("在a2分支上添加第五句话");
 	}
 }
